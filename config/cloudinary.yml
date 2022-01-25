@@ -1,0 +1,6 @@
+development:
+  cloud_name: "YOUR_CLOUDNAME_CLOUDINARY-YML"
+  api_key: "YOUR_API_KEY_CLOUDINARY-YML"
+  api_secret: "YOUR_API_KEY_CLOUDINARY-YML"
+  secure: true
+  cdn_subdomain: true
